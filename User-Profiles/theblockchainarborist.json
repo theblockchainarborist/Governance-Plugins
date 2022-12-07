@@ -5568,32 +5568,32 @@
                 "type": "Social Persona",
                 "name": "Social Persona #2",
                 "project": "Social-Trading",
-                "id": "0baeb82f-63b6-4eca-968a-283b311d9a76",
+                "id": "5d5daca9-15ce-4846-8ea2-303b02629774",
                 "config": "{\n    \"handle\": \"Pepe\",\n    \"codeName\": \"Social-Persona-2\"\n}",
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
                     "project": "Governance",
-                    "id": "a1d1040f-e773-4c49-a899-4df804677342",
-                    "config": "{\"codeName\":\"Social-Persona-2\",\"signature\":{\"message\":\"theblockchainarborist\",\"messageHash\":\"0x2b96d84519ace41f3130b6c0816df64dbedeaebfedb5208f82ae3e5aab409600\",\"v\":\"0x1b\",\"r\":\"0x93f4cb33ab59d6628ed2385246dc53445b76bd83190c6b23d98a495a504e6dba\",\"s\":\"0x3d5021c9928ea22981eb3ab3bd020a7327f4bce3a3360f8144c0219153b60e02\",\"signature\":\"0x93f4cb33ab59d6628ed2385246dc53445b76bd83190c6b23d98a495a504e6dba3d5021c9928ea22981eb3ab3bd020a7327f4bce3a3360f8144c0219153b60e021b\"}}"
+                    "id": "44ec5d37-167d-4088-9373-0ef7dee6eae0",
+                    "config": "{\"codeName\":\"Social-Persona-2\",\"signature\":{\"message\":\"theblockchainarborist\",\"messageHash\":\"0x2b96d84519ace41f3130b6c0816df64dbedeaebfedb5208f82ae3e5aab409600\",\"v\":\"0x1b\",\"r\":\"0x12d77eef7c242a5089316da92c46cae3a2b1df91d852fe6a9e94225dc11d6462\",\"s\":\"0x7c4e4fb00e33c07d76b91f38019a8a3890e3794b426aa5c3b63c60c8152dcab4\",\"signature\":\"0x12d77eef7c242a5089316da92c46cae3a2b1df91d852fe6a9e94225dc11d64627c4e4fb00e33c07d76b91f38019a8a3890e3794b426aa5c3b63c60c8152dcab41b\"}}"
                 },
                 "availableStorage": {
                     "type": "Available Storage",
                     "name": "New Available Storage",
                     "project": "Open-Storage",
-                    "id": "cd472e5b-3b3b-4c9c-94e3-865c017e7d46",
+                    "id": "044bffdb-6340-4e9a-9730-da25dd492cad",
                     "storageContainerReferences": [
                         {
                             "type": "Storage Container Reference",
                             "name": "New Storage Container Reference",
                             "project": "Open-Storage",
-                            "id": "79c3faff-b784-4fb2-95ef-c78b12df3136",
+                            "id": "6db98e31-5e5f-41cb-a183-5137af93d861",
                             "config": "{}",
                             "savedPayload": {
                                 "referenceParent": {
                                     "type": "Github Storage Container",
                                     "name": "New Github Storage Container",
-                                    "id": "ba78b889-ccc7-421e-86f8-943a2c9f5834"
+                                    "id": "ddd8d750-6932-43fb-8c1e-4cf5dfafba6e"
                                 }
                             }
                         }
@@ -5948,14 +5948,14 @@
             "type": "Github Storage",
             "name": "New Github Storage",
             "project": "Open-Storage",
-            "id": "41af0913-93aa-4cd5-92d1-d08d6103365a",
+            "id": "123cf159-0fa7-4811-8007-56e41b5acdf3",
             "config": "{}",
             "githubStorageContainers": [
                 {
                     "type": "Github Storage Container",
                     "name": "New Github Storage Container",
                     "project": "Open-Storage",
-                    "id": "ba78b889-ccc7-421e-86f8-943a2c9f5834",
+                    "id": "ddd8d750-6932-43fb-8c1e-4cf5dfafba6e",
                     "config": "{\"codeName\":\"Pepe-Social-Persona-Data\",\"githubUserName\":\"theblockchainarborist\",\"repositoryName\":\"Pepe-Social-Persona-Data\"}"
                 }
             ]
