@@ -3941,20 +3941,6 @@
                             "isRunning": false
                         }
                     }
-                },
-                {
-                    "type": "Social Trading Desktop App",
-                    "name": "Social Trading Desktop App #2",
-                    "project": "User-Apps",
-                    "id": "c8df6767-772c-4406-9250-fb69fdd2829a",
-                    "config": "{\n    \"codeName\": \"Social-Trading-Desktop-App-2\"\n}",
-                    "signingAccount": {
-                        "type": "Signing Account",
-                        "name": "New Signing Account",
-                        "project": "Governance",
-                        "id": "7d7ab7a5-4cf0-45aa-becc-665169a4b62e",
-                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-2\",\"signature\":{\"message\":\"theblockchainarborist\",\"messageHash\":\"0x2b96d84519ace41f3130b6c0816df64dbedeaebfedb5208f82ae3e5aab409600\",\"v\":\"0x1c\",\"r\":\"0xba0935c18205c2060e4fd3f88e1c1a1aaf2596d625194d6870468612da437c10\",\"s\":\"0x02ceab8d6fc2e02e3d9d0bb6908536f25713c39b833392af14c828c2770cdae8\",\"signature\":\"0xba0935c18205c2060e4fd3f88e1c1a1aaf2596d625194d6870468612da437c1002ceab8d6fc2e02e3d9d0bb6908536f25713c39b833392af14c828c2770cdae81c\"}}"
-                    }
                 }
             ],
             "algoTradesPlatformApp": [],
@@ -5355,6 +5341,43 @@
                         "isRunning": false
                     }
                 }
+            },
+            {
+                "type": "Social Persona",
+                "name": "Social Persona #2",
+                "project": "Social-Trading",
+                "id": "625c8cf1-35be-4979-a4af-24d115f4f981",
+                "config": "{\n    \"handle\": \"theblockchainarborist\",\n    \"codeName\": \"Social-Persona-2\"\n}",
+                "signingAccount": {
+                    "type": "Signing Account",
+                    "name": "New Signing Account",
+                    "project": "Governance",
+                    "id": "8451e175-4d40-481a-8392-6ff2f4b05886",
+                    "config": "{\"codeName\":\"Social-Persona-2\",\"signature\":{\"message\":\"theblockchainarborist\",\"messageHash\":\"0x2b96d84519ace41f3130b6c0816df64dbedeaebfedb5208f82ae3e5aab409600\",\"v\":\"0x1b\",\"r\":\"0x3c061adba962e17a6f179fcccb6203a4ccdc2dc557fd188cb9d66bbbd163e45b\",\"s\":\"0x6aded96ee2b35f5a60e2420726cf559a04cfe32ad4458d13ceca49960d1fccd0\",\"signature\":\"0x3c061adba962e17a6f179fcccb6203a4ccdc2dc557fd188cb9d66bbbd163e45b6aded96ee2b35f5a60e2420726cf559a04cfe32ad4458d13ceca49960d1fccd01b\"}}"
+                },
+                "availableStorage": {
+                    "type": "Available Storage",
+                    "name": "New Available Storage",
+                    "project": "Open-Storage",
+                    "id": "78770933-6ca4-4820-bd29-0d3296388701",
+                    "storageContainerReferences": [
+                        {
+                            "type": "Storage Container Reference",
+                            "name": "New Storage Container Reference",
+                            "project": "Open-Storage",
+                            "id": "c9f2c6f7-6297-48ee-a59d-7caf5a7fa7bb",
+                            "config": "{}",
+                            "savedPayload": {
+                                "referenceParent": {
+                                    "type": "Github Storage Container",
+                                    "name": "New Github Storage Container",
+                                    "id": "7f288961-7257-4b8b-9ec7-700218cef731"
+                                }
+                            }
+                        }
+                    ],
+                    "config": "{}"
+                }
             }
         ],
         "id": "23b66f2f-ae21-40ec-9c2b-764d82b56231",
@@ -5875,6 +5898,13 @@
                             "isRunning": false
                         }
                     }
+                },
+                {
+                    "type": "Github Storage Container",
+                    "name": "New Github Storage Container",
+                    "project": "Open-Storage",
+                    "id": "7f288961-7257-4b8b-9ec7-700218cef731",
+                    "config": "{\"codeName\":\"theblockchainarborist-Social-Persona-Data\",\"githubUserName\":\"theblockchainarborist\",\"repositoryName\":\"theblockchainarborist-Social-Persona-Data\"}"
                 }
             ],
             "id": "7f4d1113-5ed3-42be-b457-c93f60c328bb",
