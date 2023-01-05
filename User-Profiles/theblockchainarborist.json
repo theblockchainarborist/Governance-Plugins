@@ -3852,14 +3852,14 @@
                     "type": "Social Trading Desktop App",
                     "name": "Social Trading Desktop App #2",
                     "project": "User-Apps",
-                    "id": "783f9ddf-1d9a-4858-b03d-60da182a77cb",
+                    "id": "3516f3c9-b969-49f4-ad68-760009d2697f",
                     "config": "{\n    \"codeName\": \"Social-Trading-Desktop-App-2\"\n}",
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
                         "project": "Governance",
-                        "id": "470ea5e4-4a5f-4cbb-82bd-c34ec7864bd2",
-                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-2\",\"signature\":{\"message\":\"theblockchainarborist\",\"messageHash\":\"0x2b96d84519ace41f3130b6c0816df64dbedeaebfedb5208f82ae3e5aab409600\",\"v\":\"0x1c\",\"r\":\"0x844da2f42a679ee1620278e54fcecf3204ab5c437123036db47299c937778e23\",\"s\":\"0x18f1a1898b071d04cd945560a28e37ac510e3d53187e66b3c1491beff8357884\",\"signature\":\"0x844da2f42a679ee1620278e54fcecf3204ab5c437123036db47299c937778e2318f1a1898b071d04cd945560a28e37ac510e3d53187e66b3c1491beff83578841c\"}}"
+                        "id": "c794497f-fc04-4e4c-9729-df3fac1836f4",
+                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-2\",\"signature\":{\"message\":\"theblockchainarborist\",\"messageHash\":\"0x2b96d84519ace41f3130b6c0816df64dbedeaebfedb5208f82ae3e5aab409600\",\"v\":\"0x1b\",\"r\":\"0x93860efc222a933c9d0631f0e4af7a84c47a2e3871223630900e0f840603cd9a\",\"s\":\"0x087ddfc027cbcfcdcefc5ab781f21431d2381c91fa23c96452bc5e4be3fecd0d\",\"signature\":\"0x93860efc222a933c9d0631f0e4af7a84c47a2e3871223630900e0f840603cd9a087ddfc027cbcfcdcefc5ab781f21431d2381c91fa23c96452bc5e4be3fecd0d1b\"}}"
                     }
                 }
             ],
